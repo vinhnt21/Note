@@ -1,0 +1,16 @@
+body {
+    min-height: 100vh;
+}
+
+.list-group-item {
+    background: #ccc;
+    font-size: 1.2em;
+}
+
+.list-group-item.active {
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
